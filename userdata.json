@@ -1,0 +1,25 @@
+{
+    "Kundennummer": "300008765",
+    "Name": "Erika Mustermann",
+    "Vertragsbeginn": "1.9.2022",
+    "Vertragslaufzeit": "24 Monate",
+    "Strom": {
+        "Zählernummer": "S-1234",
+        "Zählerstand": "23894 kWh",
+        "ZählerstandDatum": "30.12.2022",
+        "LetzterRechnungsbetrag": "124,40€",
+        "Arbeitspreis": "37ct",
+        "Grundpreis": "7€",
+        "Abschlag": "120€"
+    },
+    "Gas": {
+        "Zählernummer": "G-1234",
+        "Zählerstand": "8878 m³",
+        "ZählerstandDatum": "1.3.2023",
+        "LetzterRechnungsbetrag": "210,11€",
+        "Arbeitspreis": "11ct",
+        "Grundpreis": "12€",
+        "Abschlag": "210€"
+    },
+    "Tarife": ["AltonaFlex", "AltonaEco", "AltonaPower"]
+}
